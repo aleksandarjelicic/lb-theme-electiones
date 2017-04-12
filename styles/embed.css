@@ -274,6 +274,10 @@ body .lb-item ul, body .lb-item ol {
     margin-bottom: 20px;
 }
 
+body .lb-item ol li, body .lb-item ul li {
+	margin-bottom: 10px;
+}
+
 body .highlighted-lb_post {
     background: rgba(255,255,255,1);
     background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,245,245,1) 10%, rgba(246,245,245,1) 47%, rgba(246,245,245,1) 90%, rgba(255,255,255,1) 100%);
